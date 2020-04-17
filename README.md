@@ -8,4 +8,4 @@ Crack detection is important for structural health monitoring and inspection of 
 ![concrete][image1]
 dfjdf
 
-<img src="./ims/concrete.jpg" width=70% height=70% align="center"  > 
+<img src="./images/concrete.jpg" width=70% height=70% align="center"  > 
