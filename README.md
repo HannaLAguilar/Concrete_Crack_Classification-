@@ -13,7 +13,7 @@ The first model was a simple neural netowork with one hidden and output layer an
 
 ## Dataset
 
-The dataset consists of 40, 000  RGB images, 20,000 with cracks or positive and 20,000 with no cracks or negative. The data can be dowloaded from [Mendeley Data](https://data.mendeley.com/datasets/5y9wdsg2zt/1).
+The dataset consists of 40, 000  RGB images, 20,000 with cracks or positive and 20,000 with no cracks or negative. The data can be downloaded from [Mendeley Data](https://data.mendeley.com/datasets/5y9wdsg2zt/1).
 
 <img src="./images/concrete.jpg" width=70% height=60% align="center"> 
 
