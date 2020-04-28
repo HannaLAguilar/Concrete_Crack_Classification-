@@ -8,12 +8,23 @@ The first model was a simple neural netowork with one hidden and output layer an
 * Python, numpy
 * Pytorch
 * Convolutional Neural Networks (CNN)
-* Tranfer learning: Resnet18
+* Transfer learning: Resnet18
 * jupyter notebook, anaconda
 
-### Dataset
+## Dataset
 
 The dataset consists of 40, 000  RGB images, 20,000 with cracks or positive and 20,000 with no cracks or negative. The data can be dowloaded from [Mendeley Data](https://data.mendeley.com/datasets/5y9wdsg2zt/1).
 
-<img src="./images/concrete.jpg" width=70% height=70% align="center"> 
+<img src="./images/concrete.jpg" width=70% height=60% align="center"> 
 
+## Installation
+
+Using [Anaconda](https://www.anaconda.com/products/individual), in an enviroment with python 3, install the following packages:
+
+```
+conda install -c pytorch pytorch
+conda install -c pytorch torchvision
+conda install numpy, matplotlib 
+```
+
+Then, run the notebook.
