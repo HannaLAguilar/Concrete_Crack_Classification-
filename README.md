@@ -5,11 +5,9 @@ Crack detection is important for structural health monitoring and inspection of 
 The first model was a simple neural netowork with one hidden and output layer and the second model was built using Resnet18, reaching an accuracy of 99% in the test dataset.
 
 #### Technologies used:
-* Python, numpy
-* Pytorch
+* Python, Pytorch, numpy
 * Convolutional Neural Networks (CNN)
 * Transfer learning: Resnet18
-* jupyter notebook, anaconda
 
 ## Data
 
