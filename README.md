@@ -2,7 +2,7 @@
 
 Crack detection is important for structural health monitoring and inspection of buildings. In this project, two models were trained with images of concrete with the aim of distinguishing whether a new image has a crack or not.
 
-The first model was a simple neural netowork with one hidden and output layer and the second model was built using Resnet18, reaching an accuracy of 99% in the test dataset.
+The first model was a simple neural network with one hidden and output layer and the second model was built using Resnet18, reaching an accuracy of 99% in the test dataset.
 
 #### Technologies used:
 * Python, Pytorch, numpy
